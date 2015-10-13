@@ -1,0 +1,400 @@
+{
+    "address": [
+	{
+	    "street": "7367 Velit. Rd.",
+	    "city": "Girona",
+	    "region": "CA",
+	    "country": "Cocos (Keeling) Islands",
+	    "postcode": "393051"
+	},
+	{
+	    "street": "P.O. Box 910, 1325 Congue Ave",
+	    "city": "Baden",
+	    "region": "Lower Austria",
+	    "country": "Saint Vincent and The Grenadines",
+	    "postcode": "3314"
+	},
+	{
+	    "street": "204-2205 Vitae Road",
+	    "city": "Timaru",
+	    "region": "South Island",
+	    "country": "Heard Island and Mcdonald Islands",
+	    "postcode": "51486"
+	},
+	{
+	    "street": "P.O. Box 986, 6743 Volutpat. Rd.",
+	    "city": "Balfour",
+	    "region": "OK",
+	    "country": "New Caledonia",
+	    "postcode": "1220"
+	},
+	{
+	    "street": "Ap #234-4887 Nulla St.",
+	    "city": "Haren",
+	    "region": "BU",
+	    "country": "Taiwan",
+	    "postcode": "2828"
+	},
+	{
+	    "street": "7449 Integer St.",
+	    "city": "Greymouth",
+	    "region": "South Island",
+	    "country": "Congo (Brazzaville)",
+	    "postcode": "15616"
+	},
+	{
+	    "street": "280-2426 Dictum Road",
+	    "city": "Dublin",
+	    "region": "Leinster",
+	    "country": "Marshall Islands",
+	    "postcode": "79040"
+	},
+	{
+	    "street": "785-1521 In Av.",
+	    "city": "Dublin",
+	    "region": "L",
+	    "country": "Curaçao",
+	    "postcode": "Y9H 6V3"
+	},
+	{
+	    "street": "Ap #510-6140 Penatibus Av.",
+	    "city": "Montrose",
+	    "region": "Angus",
+	    "country": "Belgium",
+	    "postcode": "164759"
+	},
+	{
+	    "street": "P.O. Box 503, 9566 Pede. St.",
+	    "city": "Evansville",
+	    "region": "IN",
+	    "country": "Saint Kitts and Nevis",
+	    "postcode": "10092"
+	},
+	{
+	    "street": "P.O. Box 800, 7737 Libero Rd.",
+	    "city": "Mielec",
+	    "region": "PK",
+	    "country": "French Guiana",
+	    "postcode": "75785"
+	},
+	{
+	    "street": "866-9417 Nisi Road",
+	    "city": "Priero",
+	    "region": "PIE",
+	    "country": "Cocos (Keeling) Islands",
+	    "postcode": "347108"
+	},
+	{
+	    "street": "Ap #802-151 Arcu. Avenue",
+	    "city": "Greymouth",
+	    "region": "South Island",
+	    "country": "Algeria",
+	    "postcode": "1123EY"
+	},
+	{
+	    "street": "904-4337 Suspendisse St.",
+	    "city": "Istres",
+	    "region": "Provence-Alpes-Côte d'Azur",
+	    "country": "Cyprus",
+	    "postcode": "1607"
+	},
+	{
+	    "street": "951-9606 Odio Rd.",
+	    "city": "Cavaso del Tomba",
+	    "region": "VEN",
+	    "country": "Reunion",
+	    "postcode": "17809"
+	},
+	{
+	    "street": "611-2114 Sed Rd.",
+	    "city": "Paris",
+	    "region": "Île-de-France",
+	    "country": "French Southern Territories",
+	    "postcode": "578459"
+	},
+	{
+	    "street": "P.O. Box 537, 3258 Ipsum. St.",
+	    "city": "Levin",
+	    "region": "North Island",
+	    "country": "Qatar",
+	    "postcode": "S5 6PX"
+	},
+	{
+	    "street": "Ap #308-7413 Nunc St.",
+	    "city": "Hamburg",
+	    "region": "Hamburg",
+	    "country": "Seychelles",
+	    "postcode": "93290"
+	},
+	{
+	    "street": "Ap #395-6746 Fusce Rd.",
+	    "city": "Vienna",
+	    "region": "Wie",
+	    "country": "Paraguay",
+	    "postcode": "27739"
+	},
+	{
+	    "street": "1530 Est. Road",
+	    "city": "Gignod",
+	    "region": "Valle d'Aosta",
+	    "country": "Marshall Islands",
+	    "postcode": "2860"
+	}
+
+    ],
+    
+    "account_type": [
+	{
+	    "value": "credit"
+	},
+	{
+	    "value": "deposit"
+	},
+	{
+	    "value": "saving"
+	}	
+    ],
+    
+    "client": [
+	{
+	    "account_number": "CR1570510574788858783",
+	    "account_balance": 19855,
+	    "first_name": "Rogers",
+	    "birth_date": "08/02/2015",
+	    "account_type_id": 1,
+	    "address_id": 9
+	},
+	{
+	    "account_number": "SA8618280037617578604529",
+	    "account_balance": 24118,
+	    "first_name": "Cook",
+	    "birth_date": "10/28/2014",
+	    "account_type_id": 3,
+	    "address_id": 2
+	},
+	{
+	    "account_number": "PT60735689954551948514718",
+	    "account_balance": 53825,
+	    "first_name": "Garner",
+	    "birth_date": "10/25/2015",
+	    "account_type_id": 3,
+	    "address_id": 8
+	},
+	{
+	    "account_number": "CY08310136578591012343650239",
+	    "account_balance": 41007,
+	    "first_name": "Stein",
+	    "birth_date": "04/23/2015",
+	    "account_type_id": 1,
+	    "address_id": 9
+	},
+	{
+	    "account_number": "LI9160935089796536473",
+	    "account_balance": 17825,
+	    "first_name": "Guy",
+	    "birth_date": "11/07/2015",
+	    "account_type_id": 1,
+	    "address_id": 5
+	},
+	{
+	    "account_number": "EE723810470276560676",
+	    "account_balance": 58091,
+	    "first_name": "Smith",
+	    "birth_date": "11/13/2014",
+	    "account_type_id": 1,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "BH57171473272297821165",
+	    "account_balance": 38482,
+	    "first_name": "Marshall",
+	    "birth_date": "04/14/2015",
+	    "account_type_id": 2,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "SM6732468198161844371828241",
+	    "account_balance": 63138,
+	    "first_name": "Byrd",
+	    "birth_date": "05/09/2015",
+	    "account_type_id": 2,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "PL38417833908808105597454487",
+	    "account_balance": 18478,
+	    "first_name": "Burt",
+	    "birth_date": "01/03/2015",
+	    "account_type_id": 3,
+	    "address_id": 7
+	},
+	{
+	    "account_number": "MC6559144093665272158932200",
+	    "account_balance": 1463,
+	    "first_name": "Norman",
+	    "birth_date": "12/14/2015",
+	    "account_type_id": 3,
+	    "address_id": 9
+	},
+	{
+	    "account_number": "AZ96252558057053436224516309",
+	    "account_balance": 35609,
+	    "first_name": "Clayton",
+	    "birth_date": "07/29/2015",
+	    "account_type_id": 1,
+	    "address_id": 4
+	},
+	{
+	    "account_number": "CH2845745337441974822",
+	    "account_balance": 92675,
+	    "first_name": "Kidd",
+	    "birth_date": "01/04/2015",
+	    "account_type_id": 2,
+	    "address_id": 1
+	},
+	{
+	    "account_number": "DE15194692915416749973",
+	    "account_balance": 11922,
+	    "first_name": "Goodman",
+	    "birth_date": "11/22/2014",
+	    "account_type_id": 2,
+	    "address_id": 7
+	},
+	{
+	    "account_number": "AL37691494664177515313212182",
+	    "account_balance": 20549,
+	    "first_name": "Campos",
+	    "birth_date": "10/16/2014",
+	    "account_type_id": 3,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "DO24173784533931570966003736",
+	    "account_balance": -6319,
+	    "first_name": "Mcknight",
+	    "birth_date": "09/22/2015",
+	    "account_type_id": 2,
+	    "address_id": 4
+	},
+	{
+	    "account_number": "CR1713706122255782525",
+	    "account_balance": 1463,
+	    "first_name": "Morin",
+	    "birth_date": "07/06/2015",
+	    "account_type_id": 2,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "NO9285217228546",
+	    "account_balance": 76270,
+	    "first_name": "Gillespie",
+	    "birth_date": "02/17/2016",
+	    "account_type_id": 1,
+	    "address_id": 5
+	},
+	{
+	    "account_number": "IS667393480327014533559546",
+	    "account_balance": 98663,
+	    "first_name": "Gomez",
+	    "birth_date": "05/15/2015",
+	    "account_type_id": 1,
+	    "address_id": 1
+	},
+	{
+	    "account_number": "MR7242794116413829963590742",
+	    "account_balance": 2502,
+	    "first_name": "Flynn",
+	    "birth_date": "04/21/2016",
+	    "account_type_id": 3,
+	    "address_id": 10
+	},
+	{
+	    "account_number": "CZ6100144070619026595992",
+	    "account_balance": 23674,
+	    "first_name": "Boone",
+	    "birth_date": "08/06/2015",
+	    "account_type_id": 3,
+	    "address_id": 7
+	},
+	{
+	    "account_number": "AE604098095587024027162",
+	    "account_balance": -3082,
+	    "first_name": "Tillman",
+	    "birth_date": "06/29/2016",
+	    "account_type_id": 3,
+	    "address_id": 3
+	},
+	{
+	    "account_number": "IT897KOQII52995302310094436",
+	    "account_balance": 28540,
+	    "first_name": "Lyons",
+	    "birth_date": "05/20/2016",
+	    "account_type_id": 3,
+	    "address_id": 7
+	},
+	{
+	    "account_number": "SK5920714077659997306283",
+	    "account_balance": 80869,
+	    "first_name": "Wiley",
+	    "birth_date": "10/29/2015",
+	    "account_type_id": 1,
+	    "address_id": 7
+	},
+	{
+	    "account_number": "DK5859131582004680",
+	    "account_balance": 88759,
+	    "first_name": "Hull",
+	    "birth_date": "02/13/2015",
+	    "account_type_id": 1,
+	    "address_id": 2
+	},
+	{
+	    "account_number": "LV02HDRF4328450499771",
+	    "account_balance": 67465,
+	    "first_name": "Mcleod",
+	    "birth_date": "10/21/2015",
+	    "account_type_id": 3,
+	    "address_id": 8
+	},
+	{
+	    "account_number": "NL35PVMR9562347852",
+	    "account_balance": 57877,
+	    "first_name": "Little",
+	    "birth_date": "09/28/2015",
+	    "account_type_id": 1,
+	    "address_id": 4
+	},
+	{
+	    "account_number": "IS455315219761799777883314",
+	    "account_balance": 93101,
+	    "first_name": "Hines",
+	    "birth_date": "12/25/2014",
+	    "account_type_id": 2,
+	    "address_id": 4
+	},
+	{
+	    "account_number": "KZ206800113275750516",
+	    "account_balance": 93590,
+	    "first_name": "Jennings",
+	    "birth_date": "03/05/2015",
+	    "account_type_id": 2,
+	    "address_id": 9
+	},
+	{
+	    "account_number": "MC1586665854721686163953893",
+	    "account_balance": 82342,
+	    "first_name": "Bush",
+	    "birth_date": "10/26/2014",
+	    "account_type_id": 3,
+	    "address_id": 4
+	},
+	{
+	    "account_number": "KZ239427849335592662",
+	    "account_balance": 41032,
+	    "first_name": "Barr",
+	    "birth_date": "05/08/2016",
+	    "account_type_id": 3,
+	    "address_id": 8
+	}
+    ]
+}
