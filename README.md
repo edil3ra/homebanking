@@ -23,6 +23,7 @@ The commands below install the application and its dependencies:
 	python manage.py runserver
 
 all commands
+
     url_map             list all defined urls
     test                run unitest
     create_and_fill_database
